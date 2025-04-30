@@ -8,7 +8,7 @@
 - 📦 Drag and drop tasks between Kanban columns (To Do, In Progress, Done)
 - 📄 Keep project work organized and visible in real-time
 
-# <img src="github/dashboard_view.JPG">
-# <img src="github/project_view.JPG">
-# <img src="github/addMember_view.JPG">
-# <img src="github/signUp_view.JPG">
+# <img src="github/dashboard_view.jpg">
+# <img src="github/project_view.jpg">
+# <img src="github/addMember_view.jpg">
+# <img src="github/signUp_view.jpg">
